@@ -1,4 +1,4 @@
-Nilka is a very simple command-line utility to resize images in batches.
+zd Nilka is a very simple command-line utility to resize images in batches.
 
 **Attention**: I wrote it for my website. Convenience and saving bandwidth is my first concern, not image quality. 
 
